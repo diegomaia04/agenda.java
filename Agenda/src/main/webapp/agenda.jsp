@@ -20,6 +20,7 @@ ArrayList<JavaBeans> lista = (ArrayList<JavaBeans>) request.getAttribute("contat
 	<section class="Agenda Agenda_jsp">
 		<h1>Agenda de Contatos</h1>
 		<a href="novo.html" class="botao"> Novo Contato </a>
+		<a href="report" class="botao1">Relatorio</a>
 
 		<table id="tabela">
 
